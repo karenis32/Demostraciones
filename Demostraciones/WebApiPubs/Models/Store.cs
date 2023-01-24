@@ -7,11 +7,11 @@ using System.Collections.Generic;
 
 namespace WebApiPubs.Models
 {
-    public partial class Stores
+    public partial class Store
     {
-        public Stores()
+        public Store()
         {
-            Sales = new HashSet<Sales>();
+            Sales = new HashSet<Sale>();
         }
 
         public string StorId { get; set; }
@@ -21,6 +21,6 @@ namespace WebApiPubs.Models
         public string State { get; set; }
         public string Zip { get; set; }
 
-        public virtual ICollection<Sales> Sales { get; set; }
+        public virtual ICollection<Sale> Sales { get; set; }
     }
 }

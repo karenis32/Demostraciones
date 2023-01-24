@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace WebApiPubs.Models
 {
-    public partial class Sales
+    public partial class Sale
     {
         public string StorId { get; set; }
         public string OrdNum { get; set; }
@@ -16,7 +16,7 @@ namespace WebApiPubs.Models
         public string Payterms { get; set; }
         public string TitleId { get; set; }
 
-        public virtual Stores Stor { get; set; }
+        public virtual Store Stor { get; set; }
         public virtual Titles Title { get; set; }
     }
 }
