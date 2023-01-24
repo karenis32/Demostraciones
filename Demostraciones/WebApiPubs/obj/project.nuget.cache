@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K3BLEHXZeBVdHm2N2+1pPODUwsb8hgQEcevQAcQUu+paJl5T0Oqwbsm7Igrf5b9Zl/pL8SFtUqqP0ZFi3KGzSA==",
+  "dgSpecHash": "8Atd9NLRObNjs0Onz4YUWtgiWjhTSPbIbhbAkxrGO0Llt8L/6vd2j9qNv3fy7gI8X7e8SGEJk2JvRASfon0TUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiPubs\\WebApiPubs.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiPubs\\WebApiPubs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

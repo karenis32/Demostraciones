@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sied7a07dZetSRPV3MeSaH0/EHByb9Sa5YF20Bm5rCh2xWag6aCBtHmO3BPjFF4OohiaJzOtBBKvVTJSHJ8cdA==",
+  "dgSpecHash": "tDGc/hXsN0Mo2JiT1LBExTpup/VJDiLMZfo1P0KH3BnHcs6KRECfUKNJYpFIw8/LbGwGOq3jAwoSF2s0fkHTEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

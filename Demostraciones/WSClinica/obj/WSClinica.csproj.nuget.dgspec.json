@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\WSClinica.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\WSClinica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\WSClinica.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\WSClinica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\WSClinica.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\WSClinica.csproj",
         "projectName": "WSClinica",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\WSClinica.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\WSClinica.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

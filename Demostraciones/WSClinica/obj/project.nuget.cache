@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWFTdhvjaTYyjtEqeeMhOZnqBAVJgOWifWXwyZsNgSEpr+NGcZZE7+zPqD0kJa0XvLIHPiY85bOEqP8GITsZow==",
+  "dgSpecHash": "Q/7E9R0qQCoKYMquzb/tyiVbQJe04OWJt3CqgcxgPU37q6U3z4X/CvpNMKXBVQhpXQg4wA3r+aYJUDaohw3lIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSClinica\\WSClinica.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSClinica\\WSClinica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

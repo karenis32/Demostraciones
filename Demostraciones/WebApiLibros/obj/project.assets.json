@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
       "projectName": "WebApiLibros",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiLibros\\WebApiLibros.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiLibros\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiLibros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

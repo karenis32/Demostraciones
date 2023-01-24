@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSAlumnos\\WSAlumnos.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSAlumnos\\WSAlumnos.csproj",
       "projectName": "WSAlumnos",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSAlumnos\\WSAlumnos.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSAlumnos\\WSAlumnos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WSAlumnos\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WSAlumnos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

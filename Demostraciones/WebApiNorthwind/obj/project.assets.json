@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiNorthwind\\WebApiNorthwind.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiNorthwind\\WebApiNorthwind.csproj",
       "projectName": "WebApiNorthwind",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiNorthwind\\WebApiNorthwind.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiNorthwind\\WebApiNorthwind.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\Demostraciones\\WebApiNorthwind\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\GITDemostraciones\\Demostraciones\\WebApiNorthwind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
